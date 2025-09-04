@@ -18,7 +18,7 @@ public class customerDemo {
 		c3.setCid(103);
 		c3.setName("pooja");
 		c3.setCity("chennai");
-		System.out.println(c3);
+		System.out.println(c3) ;
 		
 	}
 	
