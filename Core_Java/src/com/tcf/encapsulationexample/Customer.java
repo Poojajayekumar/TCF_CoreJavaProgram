@@ -1,6 +1,6 @@
 package com.tcf.encapsulationexample;
 
-public class Customer {
+public class Customer { 
 	private int cid;
 	private String name;
 	private String city;
