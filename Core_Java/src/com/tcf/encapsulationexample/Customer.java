@@ -11,7 +11,7 @@ public class Customer {
 	public void setCid(int cid) {
 		this.cid=cid;
 	}
-	public String getName() {
+	public String getName()  {
 		return name;
 	}
 	public void setName(String name) {
