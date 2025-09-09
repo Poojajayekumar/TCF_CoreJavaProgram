@@ -6,7 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		 System.out.println("=== Student Details ===");
-	        Student s1 = new Student("Kavya", 20, 101, "Computer Science");
+	        Student s1 = new Student("Navvinya", 20, 101, "Computer Science");
 	        s1.display();
 
 	        System.out.println("\n=== Research Student Details ===");
@@ -15,7 +15,7 @@ public class Demo {
 	        rs1.display();
 
 	        System.out.println("\n=== Teacher Details ===");
-	        Teacher t1 = new Teacher("Sugapathi", 35, "T101", "Java Programming");
+	        Teacher t1 = new Teacher("Pooja", 35, "T101", "Java Programming");
 	        t1.display();
 
 	}
