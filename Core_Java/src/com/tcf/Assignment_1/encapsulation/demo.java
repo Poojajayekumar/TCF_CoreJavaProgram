@@ -5,7 +5,7 @@ public class demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		 BankAccount account = new BankAccount("12345", "Sugapathi", 1000.0);
+		 BankAccount account = new BankAccount("12345", "Pooja", 1000.0);
 
 	        // Display initial details
 	        account.displayAccountInfo();
